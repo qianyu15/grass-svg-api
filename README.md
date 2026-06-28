@@ -2,7 +2,7 @@
 
 GitHubの草をSVGにするだけのAPI
 
-## endpoint
+## API endpoint
 
 GET /grass/:username
 
