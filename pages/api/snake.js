@@ -1,4 +1,4 @@
-import { generateSnake } from "../lib/snakeRunner.js";
+import { generateSnake } from "../../lib/snakeRunner.js";
 
 export default async function handler(req, res) {
   const user = req.query.user;
