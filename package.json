@@ -1,12 +1,8 @@
 {
-  "name": "grass-svg-api",
+  "name": "snake-api",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "start": "node api-server.js"
-  },
   "dependencies": {
-    "express": "^4.19.2",
-    "node-fetch": "^3.3.2"
+    "fs": "0.0.1-security"
   }
 }
